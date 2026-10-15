@@ -10,7 +10,7 @@ This map was created with the Open Street Map base. The data was obtained by goo
 I used the stores' addresses and the OSM place search plugin to plot the store locations on the OSM map base. After plotting the store locations, I used the color blue to make sure that the point data was clearly visible against the background map. 
 <img src="Images_README/plotting point data .png" alt=" plotting point data from googled store addresses" width="600" height="400">
 
-I added the store names by editing the attribute table to include a column with names corresponding to the plotted points. 
+I added the store names by editing the attribute table to include a field column with names corresponding to the plotted points. 
 <img src="Images_README/creating new field.png" alt=" created new field in attributes table to include store names" width="600" height="400">
 
 For the inset map, I initially wanted it to visualize the population distribution and density of African Immigrants in the state of Massachusetts. However, I was unable to obtain sufficient data for this exercise. So, I used the OSM place search plugin, again, to isolate and outline the state in the Atlantic northeast region. For the final map, I used the EPSG; 26986 "NAD83 / Massachusetts Mainland" projection that the state of Massachusetts uses. 
