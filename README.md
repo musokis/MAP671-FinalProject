@@ -7,7 +7,7 @@ This map was created with the Open Street Map base. The data was obtained by goo
 <img src="Images_README/google data.png" alt=" data from google maps" width="600" height="400">
 
 I used the stores' addresses and the OSM place search plugin to plot the store locations on the OSM map base. After plotting the store locations, I used the color blue to make sure that the point data was clearly visible against the background map. 
-<img src="Images_README/plotting point data.png" alt=" plotting point data from googled store addresses" width="600" height="400">
+<img src="Images_README/plotting point data .png" alt=" plotting point data from googled store addresses" width="600" height="400">
 
 I added the store names by editing the attribute table to include a column with names corresponding to the plotted points. 
 <img src="Images_README/creating new field.png" alt=" created new field in attributes table to include store names" width="600" height="400">
