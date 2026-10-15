@@ -1,6 +1,6 @@
 # Food and Culture in Massachusetts
 
-This README includes the details of my final project. My final project visualizes my study area, Boston, Massachusetts. I am interested in visualizing access to African food stores within Massachusetts. The map in this project combines digital map visualization to show store distribution within the Boston area.
+This README includes the details of my final project. My final project visualizes my study area, Boston, Massachusetts. I am interested in visualizing access to African food stores within Massachusetts. The map is a digital visualization to show store distribution within the Boston area.
 
 The plan I had in mind while creating this map was to visualize the population distribution of African immigrants in Massachusetts and the corresponding proximity to African food stores with the future goal to understand how they frequent these stores, as a way to maintain ties to their homelands. Population data differentiated by country of emigration was difficult to find. So, I have this map that shows the stores’ distribution. I noticed that the stores are concentrated around the Boston urban area. Perhaps this is indicative of the patrons of these stores as also living in close proximity to the stores. 
 
