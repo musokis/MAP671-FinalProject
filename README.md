@@ -4,7 +4,7 @@ This README includes the details of my final project. My final project visualize
 
 ## Why Food Stores in Massachusetts
 
-This is part of a larger resaerch project that explores identity through food. The plan I had in mind while starting this project was to visualize the population distribution of African immigrants in Massachusetts and the corresponding proximity to African food stores with the future goal of understanding how these stores are frequented, as a way to maintain ties to their homelands. Population data differentiated by country of emigration was difficult to find. So, I have this map that shows the stores’ distribution. I noticed that the stores are concentrated around the Boston urban area. Perhaps this is indicative of the patrons of these stores as also living in close proximity to the stores. 
+This is part of a larger research project that explores identity through food. The plan I had in mind while starting this project was to visualize the population distribution of African immigrants in Massachusetts and the corresponding proximity to African food stores with the future goal of understanding how these stores are frequented, as a way to maintain ties to their homelands. Population data differentiated by country of emigration was difficult to find. So, I have this map that shows the stores’ distribution. I noticed that the stores are concentrated around the Boston urban area. Perhaps this is indicative of the patrons of these stores as also living in close proximity to the stores. 
 
 ## How the Map was Made
 
